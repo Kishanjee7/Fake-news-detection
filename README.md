@@ -1,4 +1,4 @@
-# Fake-news-detection
+
 Fake-news-detection
 🛠️ To Run the App: In terminal
 
